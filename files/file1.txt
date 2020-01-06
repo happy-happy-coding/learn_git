@@ -1,3 +1,6 @@
 f1_modified
 
 we add some new feature to file1
+
+we fix some bugs here
+
